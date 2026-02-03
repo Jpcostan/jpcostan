@@ -1,5 +1,13 @@
 ### Welcome 🌝
 
+```javascript
+const josh = {
+  mission: "Crafting artesian solutions from barbershops to blockchains",
+  tools: ["Node,js", "Typescript", "Claude Code", "Openclaw", "Python", ...],
+  focus: "Fullstack, interoperability, ",
+  location: "Miami, FL 🇺🇸",
+};
+```
 <!--
 **Jpcostan/jpcostan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
