@@ -3,7 +3,7 @@
 ```javascript
 const josh = {
   mission: "Crafting artesian solutions from barbershops to blockchains",
-  tools: ["Node,js", "Typescript", "Claude Code", "Openclaw", "Python", ...],
+  tools: ["Node.js", "Typescript", "Claude Code", "Openclaw", "Python", ...],
   focus: ["Fullstack", "interoperability"],
   location: "Miami, FL 🇺🇸",
 };
